@@ -1,4 +1,5 @@
-# tp22
+## Description
+Ce projet  réalisé en vue.js  consiste en un site web de téléséries dans lequel il est possible de créer un compte afin de consulter les différentes téléséries présentes ainsi que leurs informations et on peut ajouter celles qui nous plaisent aux favoris.
 
 ## Project setup
 ```
